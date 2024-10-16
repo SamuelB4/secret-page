@@ -1,133 +1,17 @@
 html {
     text-align: center;
-    background: linear-gradient(to bottom right, rgb(91, 138, 105), rgb(42, 60, 83)) no-repeat;
+    background: linear-gradient(to top right, #ffd700, #b76e79) no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-#nameAge {
-    color: rgb(135, 235, 148);
-    font-size: 18px;
-}
-
-#aboutMe {
-    font-style: bold;
-}
-
-#reading {
-    font-size: 20;
-}
-
-.dadJokes {
-    font-size: 16px;
-    font-weight: 500;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-#bestJoke {
-    color: yellow;
-    font-size: 40px;
-}
-
-#secPlace {
-    font-size: 30px;
-    color: silver;
-}
-
-#thiPlace {
-    font-size: 20px;
-    color: #815b28;
-}
-
-.honourable {
-    font-size: 15px;
-    color: paleturquoise;
-}
-
-h3 {
-    color: cadetblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-button {
-    border-radius: 10px;
-    color: rgb(142, 129, 211);
-    background-color: rgb(74, 47, 99);
-    border: 10px;
-    padding: 15px;
-    text-align: center;
-    text-decoration: wavy;
-    box-shadow: 5px;
-}
-
-#beeMovie {
-    font-size: 25px;
-    color: darkred;
-}
-
-img {
-    border-radius: 50px;
-    max-width: 250px;
-    max-height: 250px;
-    border: 25px;
-    border-color: red;
-    align-items: end;
-}
-
-.imagineOne {
-    color: beige;
-    font-size: 20px;
-}
-
-.imagineTwo {
-    color: rgb(255, 0, 13);
-    font-size: 15px;
-}
-
 .date {
-    color: rgb(221, 148, 148);
+    color: rgb(136, 27, 27);
     font-size: 10px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-#extra {
-    font-size: 7px;
-    color: rgb(172, 128, 128);
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-#macbeth {
-    color: rgb(135, 235, 148);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-#anInspectorCalls {
-    color: rgb(135, 235, 148);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-#aChristmasCarol {
-    color: rgb(135, 235, 148);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-.actScene5 {
-    font-size: 12;
-}
-
-.inspectorCalls {
-    font-size: 12;
-}
-
-.christmasCarol {
-    font-size: 12;
-}
-
-#listThings {
-    border-radius: 20px;
-    box-shadow: 8px;
-    background-color: rgb(57, 113, 161);
-    padding: 10px;
-    filter: opacity(0.5);
-    box-shadow: 5px;
+h1 {
+    color: rgb(70, 53, 12);
+    font-weight: bolder;
 }
